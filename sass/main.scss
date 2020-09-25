@@ -1,0 +1,31 @@
+body {
+    background-color: #F0F0F0;
+}
+.page-container {
+    height: 100vh;
+    .side-nav {
+        background-color: white;
+        height: 100vh;
+
+        ul {
+            padding: 0;
+            padding-top : 15px;
+            list-style: none;
+            a {
+                text-decoration: none;
+
+            }
+        }
+        .sec {
+                margin-top: 10vh;;
+        }
+        .card {
+            font-size: 16px;
+            .card-text {
+                color : #999;
+            }
+        } 
+
+
+    }
+}
