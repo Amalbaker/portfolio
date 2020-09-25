@@ -46,4 +46,26 @@ body {
   height: 100vh;
   margin-left: 80px;
 }
+
+.content section {
+  margin: 2rem 2rem;
+}
+
+.content section .column {
+  padding: .5em;
+}
+
+.content section .column .card .card-img-top {
+  margin: 2em auto;
+  max-width: 80%;
+  max-height: 150px;
+}
+
+.content section .column .card .card-title {
+  text-transform: uppercase;
+}
+
+.content section .column .card .card-text {
+  color: #999;
+}
 /*# sourceMappingURL=main.css.map */
